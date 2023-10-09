@@ -1,5 +1,7 @@
 # MLIR Debugging Hacks
 
+Official documentation: https://mlir.llvm.org/docs/TargetLLVMIR/
+
 Tools developed for debugging MLIR code.
 
 
